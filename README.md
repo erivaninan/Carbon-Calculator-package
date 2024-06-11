@@ -58,5 +58,4 @@ Pour utiliser ce calculateur d'empreinte carbone, suivez ces étapes :
 ### Auteur
 
 Erivan INAN
-inanerivan@gmail.com
 
