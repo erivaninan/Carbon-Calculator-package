@@ -1,6 +1,5 @@
 # README
 
-## Projet Python ISDS1 2024
 
 ### Présentation Générale
 
